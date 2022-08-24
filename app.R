@@ -9,7 +9,7 @@
 
 library(shiny)
 
-
+# https://mastering-shiny.org/scaling-modules.html
 
 
 
@@ -17,6 +17,9 @@ library(shiny)
 #datasetApp()
 #selectVarApp()
 #selectDataVarApp()
-histogramApp2()
+#histogramApp2()
 #multiOutApp()
+#radioExtraApp("AAAAA", c("I eat them", "I burn them"))
+#wizardApp()
+realisticWizardApp()
 #shinyApp(ui, server)
